@@ -17,9 +17,9 @@ export TERRAFORM_CONFIG="$HOME/.terraform.d/credentials.tfrc.json"
 
 3. Configure the AWS Command Line Interface (AWS CLI). For more information, see [Configuring the AWS CLI](https://doc.aws.amazon.com/cli/latest/userguide/cli-chap-configure.html).
 4. If you don't have git installed, [install git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git). 
-5. Clone this **aws-quickstart/terraform-aws-ecs-fargate** repository using the following command:
+5. Clone this **aws-ia/terraform-aws-ecs-fargate** repository using the following command:
 
-   `git clone https://github.com/aws-quickstart/terraform-aws-ecs-fargate`
+   `git clone https://github.com/aws-ia/terraform-aws-ecs-fargate`
 
 6. Change directory to the root repository directory.
 
